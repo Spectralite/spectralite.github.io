@@ -16,7 +16,7 @@ timezone: Europe/London
 
 title: Mental Overflow # the main title
 
-tagline: TODO TAGLINE # it will display as the sub-title
+tagline: Eyobell's blog # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   blog,philosophy,mathematics,computer science,programming,life,cognitive,meta
