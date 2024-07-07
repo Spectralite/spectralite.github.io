@@ -1,6 +1,7 @@
 ---
 title: "Leaf Aptitude Test Review"
 date: 2024-07-03 21:25:00 +0100
+categories: [Effective-altriusm]
 tags: [effective-altriusm, puzzles]
 ---
 # General Overview
