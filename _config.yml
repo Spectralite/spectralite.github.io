@@ -19,14 +19,14 @@ title: Mental Overflow # the main title
 tagline: A text-focused Jekyll theme # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  Mental emesis with a logical flavour
+  A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://spectralite.github.io"
+url: ""
 
 github:
-  username: Spectralite # change to your GitHub username
+  username: github_username # change to your GitHub username
 
 twitter:
   username: twitter_username # change to your Twitter username
@@ -41,9 +41,19 @@ social:
     - https://twitter.com/username # change to your Twitter homepage
     - https://github.com/username # change to your GitHub homepage
     # Uncomment below to add more social links
+    # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
+# Site Verification Settings
+webmaster_verifications:
+  google: # fill in your Google verification code
+  bing: # fill in your Bing verification code
+  alexa: # fill in your Alexa verification code
+  yandex: # fill in your Yandex verification code
+  baidu: # fill in your Baidu verification code
+  facebook: # fill in your Facebook verification code
 
+# ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
 
 # Web Analytics Settings
@@ -83,10 +93,10 @@ theme_mode: # [light | dark]
 # will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-cdn: "https://userpic.codeforces.org/3249185/title/7ced1b97f9ce1baf.jpg"
+cdn: "https://chirpy-img.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "https://userpic.codeforces.org/3249185/title/7ced1b97f9ce1baf.jpg"
+avatar: "/commons/avatar.jpg"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
@@ -138,7 +148,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: "https://spectralite.github.io"
+baseurl: ""
 
 # ------------ The following options are not recommended to be modified ------------------
 
