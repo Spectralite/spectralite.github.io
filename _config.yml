@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
 url: "https://spectralite.github.io"
 
 github:
-  username: github_username # change to your GitHub username
+  username: Spectralite # change to your GitHub username
 
 twitter:
   username: twitter_username # change to your Twitter username
@@ -148,7 +148,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: "https://spectralite.github.io"
+baseurl: ""
 
 # ------------ The following options are not recommended to be modified ------------------
 
