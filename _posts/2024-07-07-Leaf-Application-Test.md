@@ -17,7 +17,7 @@ I think i crushed the numerical section (literally just standard school maths wi
 
 The language section of finding two words which were synonyms or gradients lower was a bit tricky as I simply hadn't encountered many of those words before but I think it went alright.
 
-Oh yeah, the first section was one of finding diagrams where they matched the configuration of the given diagram with respect to the position of a point or *. That I crushed.
+Oh yeah, the first section was one of finding diagrams where they matched the configuration of the given diagram with respect to the position of a point or * . That I crushed.
 
 Hopefully it was enough for me to secure a place, least of my straight predicted 9s.
 
